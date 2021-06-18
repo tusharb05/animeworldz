@@ -119,3 +119,4 @@ function AnimeInfo(props) {
 }
 
 export default AnimeInfo;
+
